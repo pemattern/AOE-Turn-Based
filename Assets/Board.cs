@@ -20,7 +20,10 @@ public class Board : MonoBehaviour
         {
             for (int y = 0; y < SIZE; y++)
             {
-                tiles[x, y] = new Tile(x - halfSize + offset, y - halfSize + offset, this);
+                Tile tile = new Tile(x - halfSize + offset, y - halfSize + offset, this);
+                BoardObject.Create<Tree>(tile);
+                tiles[x, y] = tile;
+
             }
         }
         return tiles;
