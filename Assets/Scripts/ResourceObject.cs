@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public abstract class Resource : BoardObject
+public abstract class ResourceObject : BoardObject
 {
     [SerializeField] protected GameObject[] _prefabs;
 }

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public abstract class BoardObject : MonoBehaviour
+public static class ObjectFactory
 {
     public static void Create<T>(Tile tile) where T : BoardObject
     {
