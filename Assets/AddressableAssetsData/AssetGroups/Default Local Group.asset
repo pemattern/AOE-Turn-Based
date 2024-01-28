@@ -22,19 +22,123 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+    <IsFolder>k__BackingField: 0
+    <BundleFileId>k__BackingField: 
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 0
+    m_IsScene: 0
+    m_CurrentHash:
+      'bytes[0]': 152
+      'bytes[1]': 121
+      'bytes[2]': 238
+      'bytes[3]': 197
+      'bytes[4]': 253
+      'bytes[5]': 184
+      'bytes[6]': 151
+      'bytes[7]': 49
+      'bytes[8]': 28
+      'bytes[9]': 163
+      'bytes[10]': 190
+      'bytes[11]': 249
+      'bytes[12]': 237
+      'bytes[13]': 237
+      'bytes[14]': 38
+      'bytes[15]': 240
+    m_cachedAssetPath: Assets/Oode studios/Lowpoly nature/Prefabs/Pine trees/Pine
+      tree 003.prefab
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 1bf975250621fc44da30f9053c0ed3a2
     m_Address: Assets/Oode studios/Lowpoly nature/Prefabs/Pine trees/Pine tree 002.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+    <IsFolder>k__BackingField: 0
+    <BundleFileId>k__BackingField: 
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 0
+    m_IsScene: 0
+    m_CurrentHash:
+      'bytes[0]': 37
+      'bytes[1]': 204
+      'bytes[2]': 58
+      'bytes[3]': 220
+      'bytes[4]': 13
+      'bytes[5]': 121
+      'bytes[6]': 83
+      'bytes[7]': 233
+      'bytes[8]': 238
+      'bytes[9]': 80
+      'bytes[10]': 225
+      'bytes[11]': 85
+      'bytes[12]': 225
+      'bytes[13]': 248
+      'bytes[14]': 0
+      'bytes[15]': 228
+    m_cachedAssetPath: Assets/Oode studios/Lowpoly nature/Prefabs/Pine trees/Pine
+      tree 002.prefab
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 0ad5fbee627daf748a386bec708ea2e1
     m_Address: Assets/Oode studios/Lowpoly nature/Prefabs/Pine trees/Pine tree 001.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+    <IsFolder>k__BackingField: 0
+    <BundleFileId>k__BackingField: 
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 0
+    m_IsScene: 0
+    m_CurrentHash:
+      'bytes[0]': 188
+      'bytes[1]': 30
+      'bytes[2]': 127
+      'bytes[3]': 12
+      'bytes[4]': 169
+      'bytes[5]': 130
+      'bytes[6]': 22
+      'bytes[7]': 224
+      'bytes[8]': 211
+      'bytes[9]': 9
+      'bytes[10]': 108
+      'bytes[11]': 46
+      'bytes[12]': 147
+      'bytes[13]': 246
+      'bytes[14]': 254
+      'bytes[15]': 239
+    m_cachedAssetPath: Assets/Oode studios/Lowpoly nature/Prefabs/Pine trees/Pine
+      tree 001.prefab
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d435386812cb87fc09e8c1242354c2e2, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: d7f12e61bcf91ecf4b70064b002905d9, type: 2}
     - {fileID: 11400000, guid: bce52e666953240a8b283a25448e246e, type: 2}
+  m_FolderEntryCache: []
+  m_AssetCollectionEntryCache: []
+  <FlaggedDuringContentUpdateRestriction>k__BackingField: 0
+  m_CurrentHash:
+    'bytes[0]': 112
+    'bytes[1]': 54
+    'bytes[2]': 119
+    'bytes[3]': 213
+    'bytes[4]': 48
+    'bytes[5]': 43
+    'bytes[6]': 249
+    'bytes[7]': 70
+    'bytes[8]': 105
+    'bytes[9]': 25
+    'bytes[10]': 181
+    'bytes[11]': 60
+    'bytes[12]': 53
+    'bytes[13]': 92
+    'bytes[14]': 230
+    'bytes[15]': 92
